@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haoyuan Li"
-  avatar           : "profile.png"
+  avatar           : "https://leehaoyuan.github.io/files/photo.jpg"
   bio              : "graduate student at UNC-CH"
   location         : "Chapel Hill, North Carolina"
   employer         :
